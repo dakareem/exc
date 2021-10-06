@@ -1,0 +1,17 @@
+.Item-Photo{
+    width : 150px;   
+   }
+   .item-details{
+       display: inline-block;
+       border: 1px solid black;
+       width: 180px;
+       padding: 3px;
+       margin: 3px;
+       text-align: center;
+   }
+   .caption {
+       text-align: center;
+   }
+   img{
+       width : 150px; }
+   
