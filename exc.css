@@ -3,7 +3,7 @@
    }
    .item-details{
        display: inline-block;
-       border: 1px solid black;
+       border: 1px solid white;
        width: 180px;
        padding: 3px;
        margin: 3px;
@@ -11,7 +11,17 @@
    }
    .caption {
        text-align: center;
+       margin-top: 5px;
    }
    img{
        width : 150px; }
-   
+       body{
+        background-color:rgb(104, 155, 233);
+        text-align: center;
+    }
+.storeItemsClass{
+font-size: 50px;
+color: White;
+}
+button{
+    margin-top: 8px;
